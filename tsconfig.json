@@ -27,6 +27,8 @@
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
-    "strictTemplates": false
+    "strictTemplates": false 
+    //reason why order.html formgroup, li did not work, 
+    // change to false... not true
   }
 }
