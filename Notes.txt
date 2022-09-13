@@ -1,0 +1,5 @@
+Install UUID
+npm i uuid //node package manager
+npm i --save-dev @types/uuid //use version 4
+
+look at set function
